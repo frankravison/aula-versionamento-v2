@@ -2,3 +2,5 @@
 Aqui vamos armazenar os codigos da aula de sersionamento.
 
 adicionando configuracao github
+
+Commitando novamente para testar os comandos
